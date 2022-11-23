@@ -1,0 +1,11 @@
+/* service-page end */
+.floting-icon-item {
+    width: 50px;
+    height:50px;
+    position:fixed;
+}
+.floting-icon-item svg{
+    fill: red;
+    filter: blur(2.5px);
+    -webkit-filter: blur(2.5px);
+}
